@@ -1,0 +1,12 @@
+point.config = {
+////////////////////////////////////////////////////////////
+    
+    logging                 : true,
+    checkPageScripts        : true,
+    checkPageStylesheets    : true,
+    slideTime               : 500
+
+
+////////////////////////////////////////////////////////////
+}
+
